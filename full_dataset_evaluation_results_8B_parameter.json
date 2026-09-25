@@ -1,0 +1,29 @@
+{
+    "open_parcel": {
+        "000000002093.jpg": {
+            "objects": [],
+            "affordances": [],
+            "status": "execution_error"
+        },
+        "000000006177.jpg": {
+            "objects": [],
+            "affordances": [],
+            "status": "execution_error"
+        },
+        "000000006406.jpg": {
+            "objects": [],
+            "affordances": [],
+            "status": "execution_error"
+        },
+        "000000008336.jpg": {
+            "objects": [],
+            "affordances": [],
+            "status": "execution_error"
+        },
+        "000000016928.jpg": {
+            "objects": [],
+            "affordances": [],
+            "status": "execution_error"
+        }
+    }
+}

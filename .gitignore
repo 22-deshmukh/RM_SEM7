@@ -1,0 +1,77 @@
+# =========================
+# DATASETS
+# =========================
+data/
+exhaust_fire/
+extnigh_fire/
+open_parcel/
+place_flowers/
+pour_sugar/
+sit_comfortably/
+smear_butter/
+step_on/
+wine/
+# =========================
+# LLM MODELS
+# =========================
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# =========================
+# ENVIRONMENT
+# =========================
+.env
+.env.*
+!.env.example
+
+env/
+.venv/
+venv/
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LOGS / TEMP
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# BUILD / OUTPUT
+# =========================
+build/
+dist/
+
+
+llama.cpp/
+# =========================
+# SYSTEM / TRASH
+# =========================
+.Trash-1000/
+
+# =========================
+# LARGE ARCHIVES
+# =========================
+*.zip
